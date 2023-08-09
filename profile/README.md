@@ -2,6 +2,8 @@
 
 <div align="center">
   <h2>members</h2>
+  <p><b>statuses are a beta test, this is probably very slow :D</b></p>
+  <p>if a status doesn't render, consider reloading or opening in new tab</p>
   <img src="https://zdl-rpc.cyclic.app/api?id=253302259696271360"><br>
   <img src="https://zdl-rpc.cyclic.app/api?id=1003477997728313405"><br>
   <img src="https://zdl-rpc.cyclic.app/api?id=778008377803931670"><br>
