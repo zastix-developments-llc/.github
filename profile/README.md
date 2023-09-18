@@ -2,10 +2,10 @@
 
 <div align="center">
   <h2>members</h2>
-  <p><b>statuses are a beta test, this is probably very slow :D</b></p>
-  <p>if a status doesn't render, consider reloading or opening in new tab</p>
-  <img src="https://zdl-rpc.cyclic.app/api?id=253302259696271360"><br>
-  <img src="https://zdl-rpc.cyclic.app/api?id=1003477997728313405"><br>
-  <img src="https://zdl-rpc.cyclic.app/api?id=778008377803931670"><br>
-  <img src="https://zdl-rpc.cyclic.app/api?id=950881301639082084"><br>
+  <p><b>statuses are now more stable (still laggy)</b></p>
+  <img src="https://zdl-rpc.cyclic.app/?id=253302259696271360"><br>
+  <img src="https://zdl-rpc.cyclic.app/?id=1003477997728313405"><br>
+  <img src="https://zdl-rpc.cyclic.app/?id=1021090674289942600"><br>
+  <img src="https://zdl-rpc.cyclic.app/?id=553776059363885066"><br>
+  <img src="https://zdl-rpc.cyclic.app/?id=950881301639082084"><br>
 </div>
